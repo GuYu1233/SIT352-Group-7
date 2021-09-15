@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="shi" size="400.000000 266.666656" />
+    <ImageTarget name="qing" size="400.000000 332.031250" />
+    <ImageTarget name="kai" size="400.000000 273.417725" />
+    <ImageTarget name="dong" size="400.000000 600.000000" />
+    <ImageTarget name="da" size="400.000000 600.600586" />
+    <ImageTarget name="aifei" size="400.000000 532.489441" />
+    <ImageTarget name="50" size="400.000000 298.507477" />
+    <ImageTarget name="60" size="400.000000 252.127655" />
+    <ImageTarget name="70" size="400.000000 357.190643" />
+    <ImageTarget name="80" size="400.000000 380.110504" />
+    <ImageTarget name="90" size="400.000000 556.862732" />
+    <ImageTarget name="100" size="400.000000 438.147125" />
+    <ImageTarget name="6" size="400.000000 566.371704" />
+    <ImageTarget name="5" size="400.000000 566.371704" />
+    <ImageTarget name="3" size="400.000000 566.371704" />
+    <ImageTarget name="1" size="400.000000 566.371704" />
+  </Tracking>
+</QCARConfig>
